@@ -10,4 +10,5 @@ __pycache__/
 
 # Uploaded Files
 uploads/
-node_modules/
+node_modules/.DS_Store
+.ipynb_checkpoints/
