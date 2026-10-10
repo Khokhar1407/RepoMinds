@@ -234,14 +234,6 @@ The generated report includes:
 
 ---
 
-## Team
-
-**RepoMinds**
-
-SIP 2026 – Generative & Agentic AI Systems Development
-
----
-
 ## License
 
 This project is developed for academic purposes as part of the SIP 2026 Capstone Project.
